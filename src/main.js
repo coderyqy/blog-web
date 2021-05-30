@@ -5,6 +5,10 @@ import store from './store'
 
 Vue.config.productionTip = false
 
+Vue.prototype.$appName = 'My App'
+
+// axios.defaults.baseUrl
+
 new Vue({
   router,
   store,
