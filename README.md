@@ -1,6 +1,6 @@
 # 个人博客网站
 
-线上地址：[blog](https://www.yangqingyun.com/)
+线上地址：[blog](http://www.yangqingyun.com/)
 
 ## Project setup
 
